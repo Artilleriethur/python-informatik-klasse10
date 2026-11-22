@@ -1,0 +1,2 @@
+# Der Hefter braucht nur die Python-Standardbibliothek (re, random, math).
+# Diese Datei sorgt dafuer, dass Binder eine Python-Umgebung mit JupyterLab baut.
